@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.1",
+  "versionCode": 12,
+  "versionName": "2.2",
   "apkUrl": "https://github.com/ahmad21109/stockcc-updates/raw/main/StockCC_latest.apk",
-  "changelog": "- Transaction delete bug fix\n- Bug fixes"
+  "changelog": "- Barcode scanner added\n- Delete Undo added\n- Sell Undo Added\n- Bug fixes"
 }
