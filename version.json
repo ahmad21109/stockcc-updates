@@ -1,6 +1,6 @@
 {
-    "versionCode":  16,
-    "versionName":  "2.5.2",
+    "versionCode":  17,
+    "versionName":  "2.5.3",
     "apkUrl":  "https://raw.githubusercontent.com/ahmad21109/stockcc-updates/main/StockCC_latest.apk",
-    "changelog":  "ADDED \\nQuick Share\\nUI improved"
+    "changelog":  "Added \\n- Quick Share\\n- Improved UI\\nBug fixed"
 }
