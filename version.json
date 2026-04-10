@@ -1,6 +1,6 @@
 {
-    "versionCode":  20,
-    "versionName":  "2.5.6",
+    "versionCode":  21,
+    "versionName":  "2.5.7",
     "apkUrl":  "https://raw.githubusercontent.com/ahmad21109/stockcc-updates/main/StockCC_latest.apk",
-    "changelog":  "FIXED BUGS \\n07/04/2026"
+    "changelog":  "General fixes and improvements"
 }
